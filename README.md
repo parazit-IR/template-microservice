@@ -1,1 +1,1 @@
-# template-microservice
+# microservices-pattern
